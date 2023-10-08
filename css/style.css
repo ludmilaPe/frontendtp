@@ -1,0 +1,59 @@
+
+
+
+.navbar{
+   background-color: #545c54;
+   
+}
+
+.navbar-collapse {
+    color: white;
+}
+
+section#contenedor {
+background-image: url(ba1.jpg);
+background-position: center;
+background-size: 1500px;
+box-sizing: border-box;
+opacity: calc(1);
+height: 600px;
+width: 100%;
+}
+
+.h2 {
+    color: white;
+   
+    
+    
+    display: inline;
+}
+
+p#parrafo {
+    color: white;
+    
+    display: inline;
+    font-size: 20px;
+      font-weight: bold;
+    }
+
+main {
+    text-align: right;
+ }
+ 
+ h3 { 
+    text-align: center;
+ }
+
+.card-group {
+    margin: 100px;
+
+    border-bottom-width: medium;
+}
+
+.card-mb-3 { 
+    width: 100px;
+    height: 1000px;
+}
+.div-input-group {
+    background-color: #545c54;
+}
